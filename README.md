@@ -1,4 +1,3 @@
-Sure! Here’s the README content in plain text format without any formatting:
 
 Real-Time Pose Estimation
 
